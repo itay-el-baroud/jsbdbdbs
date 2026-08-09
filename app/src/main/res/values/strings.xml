@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ss derive</string>
+    <string name="login_url">https://media-note.ct.ws/login.php</string>
+    <string name="signup_url">https://media-note.ct.ws/sign_up.php</string>
+    <string name="forgot_url">https://media-note.ct.ws/forgot-password.php</string>
+</resources>
